@@ -1,6 +1,4 @@
-# Parallel-Computing-Pi-Calculation
-Pi calculator in Java using multithreading techniques.
-Pi calculator in Java using multithreading techniques.
+# Pi calculator in Java using multithreading techniques.
 
 ## How to use
 Execute the pi.jar using the command: 
