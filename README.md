@@ -5,9 +5,9 @@ Pi calculator in Java using multithreading techniques.
 ## How to use
 Execute the pi.jar using the command: 
 
-	```
-	java -jar pi.jar
-	```
+```
+java -jar pi.jar
+```
 	
 **Optional parameters**:
 * *-p 1000* or *--terms 1000*   <br />~ Sets the number of terms that it has to calculate. Ex. 1000 
